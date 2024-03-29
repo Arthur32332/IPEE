@@ -1,3 +1,5 @@
+//EXERCICIO DE DESLOCAMENTO USANDO BIT A BIT
+
 programa
 {
 	inclua biblioteca Util --> ut
