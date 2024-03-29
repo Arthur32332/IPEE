@@ -1,3 +1,5 @@
+//EXEMPLO USANDO BIBLIOTECA MATEMATICA - CORREÇÃO DOS COMENTARIOS
+
 programa
 {
 	inclua biblioteca Matematica --> Mt //Mt é um apelido para a biblioteca Matemática
@@ -27,14 +29,3 @@ programa
 		escreva("A distância(p1<",x1,",",y1,">,p0<",x0,",",y0,">) = ", Mt.arredondar(distanciaDeP1aP0,NUMERO_DE_CASAS_DECIMAIS))
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 186; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
