@@ -1,3 +1,5 @@
+//MELHORIAS DE SAIDAS
+
 programa
 {
 	
@@ -27,14 +29,3 @@ programa
 		escreva("Negação controlada do 2º nibble de ", numero, "(0000...00010100) resulta em: ",numeroResultanteDoXOR,"(0000...11100100)\n\n")				
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 1034; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
