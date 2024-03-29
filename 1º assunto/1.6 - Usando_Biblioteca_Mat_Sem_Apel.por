@@ -1,3 +1,5 @@
+//EXEMPLO USANDO BIBLIOTECA MATEMATICA - CORREÇÃO DOS COMENTARIOS
+
 programa
 {
 	inclua biblioteca Matematica
@@ -26,15 +28,3 @@ programa
 		escreva(Matematica.arredondar(distanciaDeP1aP0, NUMERO_DE_CASAS_DECIMAIS),"\n")
 	}
 }
-
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 132; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
