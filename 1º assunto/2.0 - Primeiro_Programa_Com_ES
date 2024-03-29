@@ -1,3 +1,5 @@
+//EXEMPLO DE ENTRADA E SAÍDA
+
 programa
 {
 	//Seu programa sempre iniciará da função inicio
@@ -26,17 +28,3 @@ programa
 		escreva("Meu nome é ", nomeDoAluno, "\t com inicial (",primeiraLetraDoNome,") e é ", ehPrimeiroDiaDeAula," que é meu primeiro dia de aula\n")
 	}
 }
-
-
-
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 346; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
