@@ -1,5 +1,6 @@
-//Crie um programa que some 2 números e caso a soma seja maior ou igual a 10, exiba a 
-soma mais 5 e, caso seja menor que 10, exiba a soma menos 7.
+/*Crie um programa que some 2 números e caso a soma seja maior ou igual a 10, exiba a 
+soma mais 5 e, caso seja menor que 10, exiba a soma menos 7
+*/
 
 programa
 {
