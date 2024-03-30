@@ -1,3 +1,10 @@
+/*      #Dados dois valores reais, ordene (troque seus valores) os valores
+das variáveis em ordem crescente
+	#Dado três valores reais, ordene (troque seus valores) os valores das
+variáveis em ordem crescente
+	#Dado três valores reais, obter o menor deles
+*/
+
 programa {
 	funcao inicio() {
 		//Declaração e entrada de dados
@@ -21,15 +28,3 @@ programa {
 		
 	}
 }
-
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 63; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
