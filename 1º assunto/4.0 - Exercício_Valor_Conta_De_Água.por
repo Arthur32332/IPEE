@@ -1,9 +1,12 @@
-/* Sabe-se que o valor de cada 1.000 litros de água corresponde a 2% do
+/*CONSTRUÇÃO DE ALGORITMOS
+
+Exemplo:
+- Sabe-se que o valor de cada 1.000 litros de água corresponde a 2% do
 salário mínimo. Faça um algoritmo que receba o valor do salário mínimo
 e a quantidade de água consumida em uma residência por mês. Em
 seguida, calcule e mostre:
-	#O valor da conta de água.
-	#O valor da conta de água a ser pago com um desconto qualquer.
+	- O valor da conta de água.
+	- O valor da conta de água a ser pago com um desconto qualquer.
 */
 
 programa
