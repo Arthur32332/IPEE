@@ -1,3 +1,11 @@
+/*PRÁTICA COM OPERAÇÕES LÓGICO-RELACIONAIS
+
+- |x + a| > b, exiba a palavra “satisfaz” em caso da inequação ser verdadeira e,
+em caso contrário, a palavra “não satisfaz”, sem utilizar a função valor_absoluto do
+portugol. Use variáveis reais. Revise aqui. Dica: sempre use o mesmo tipo em
+comparações. P.E.: 1.0 < 2.0
+*/
+
 programa
 {
 	inclua biblioteca Matematica --> mt
@@ -27,14 +35,3 @@ programa
 		}
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 576; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
