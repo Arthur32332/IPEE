@@ -1,6 +1,6 @@
 /*ESTRUTURA CONDICIONAL COM FUNÇÕES LÓGICAS
 
-Exemplo 2: Crie um programa para ler 3 números a, b e c, e calcular
+- Exemplo 2: Crie um programa para ler 3 números a, b e c, e calcular
 a soma de a e b, se c não é maior que 5, e caso contrário, a subtração.
 */
 
