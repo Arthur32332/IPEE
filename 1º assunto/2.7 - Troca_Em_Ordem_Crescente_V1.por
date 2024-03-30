@@ -1,8 +1,10 @@
-/*      #Dados dois valores reais, ordene (troque seus valores) os valores
+/*PRÁTICA
+
+- Dados dois valores reais, ordene (troque seus valores) os valores
 das variáveis em ordem crescente
-	#Dado três valores reais, ordene (troque seus valores) os valores das
+- Dado três valores reais, ordene (troque seus valores) os valores das
 variáveis em ordem crescente
-	#Dado três valores reais, obter o menor deles
+- Dado três valores reais, obter o menor deles
 */
 
 programa {
