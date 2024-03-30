@@ -1,3 +1,8 @@
+//Faça um programa que alerte ao usuário de um automóvel que ele está
+próximo do limite de velocidade, quando essa for maior que 55, mas
+menor ou igual a 80 e quando acima desse último valor, alertar que
+está acima do limite
+
 programa
 {
 	
@@ -24,14 +29,3 @@ programa
 		}//termina o 1º se
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 497; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
