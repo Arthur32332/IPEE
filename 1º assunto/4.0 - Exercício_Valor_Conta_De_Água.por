@@ -1,3 +1,11 @@
+/* Sabe-se que o valor de cada 1.000 litros de água corresponde a 2% do
+salário mínimo. Faça um algoritmo que receba o valor do salário mínimo
+e a quantidade de água consumida em uma residência por mês. Em
+seguida, calcule e mostre:
+	#O valor da conta de água.
+	#O valor da conta de água a ser pago com um desconto qualquer.
+*/
+
 programa
 {
 	funcao inicio()
@@ -27,14 +35,3 @@ programa
 		escreva("O valor com desconto é ", valorDaContaComDesconto," reais\n")
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 133; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
