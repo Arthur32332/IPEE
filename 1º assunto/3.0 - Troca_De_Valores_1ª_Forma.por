@@ -1,3 +1,10 @@
+/*PRÁTICA
+
+- Crie um programa em diagrama de blocos (use o www.draw.io ou seu
+caderno) e portugol que receba dois valores reais A e B e troque o
+conteúdo de A por B e de B por A e exiba a troca
+*/
+
 programa
 {
 	
@@ -26,14 +33,3 @@ programa
 		escreva("Após a troca: A = ",a," B = ", b)
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 75; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
