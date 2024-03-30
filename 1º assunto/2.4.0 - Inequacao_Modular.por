@@ -1,6 +1,6 @@
 /*PRÁTICA COM OPERAÇÕES LÓGICO-RELACIONAIS
 
-- |x + a| > b, exiba a palavra “satisfaz” em caso da inequação ser verdadeira e,
+• |x + a| > b, exiba a palavra “satisfaz” em caso da inequação ser verdadeira e,
 em caso contrário, a palavra “não satisfaz”, sem utilizar a função valor_absoluto do
 portugol. Use variáveis reais. Revise aqui. Dica: sempre use o mesmo tipo em
 comparações. P.E.: 1.0 < 2.0
