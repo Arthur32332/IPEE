@@ -1,3 +1,10 @@
+/*      #Dados dois valores reais, ordene (troque seus valores) os valores
+das variáveis em ordem crescente
+	#Dado três valores reais, ordene (troque seus valores) os valores das
+variáveis em ordem crescente
+	#Dado três valores reais, obter o menor deles
+*/
+
 programa {
 	funcao inicio() {
 		real a = 1.1, b = 3.0, c = -2.1, menor
