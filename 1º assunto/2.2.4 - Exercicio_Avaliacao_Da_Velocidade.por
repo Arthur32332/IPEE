@@ -1,7 +1,8 @@
-//Faça um programa que alerte ao usuário de um automóvel que ele está
+/*Faça um programa que alerte ao usuário de um automóvel que ele está
 próximo do limite de velocidade, quando essa for maior que 55, mas
 menor ou igual a 80 e quando acima desse último valor, alertar que
 está acima do limite
+*/
 
 programa
 {
