@@ -1,5 +1,6 @@
-//Exemplo 1: Crie um programa para verificar se um número está ou não
+/*Exemplo 1: Crie um programa para verificar se um número está ou não
 entre dois outros números
+*/
 
 programa
 {
