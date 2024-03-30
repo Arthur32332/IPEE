@@ -1,3 +1,5 @@
+//EXERCICIO DE TROCA DE DEZENA, CENTENA E UNIDADE PARA UCD
+
 programa
 {
 	funcao inicio()
@@ -24,14 +26,3 @@ programa
 		escreva("O novo número com dígitos invertidos é: ",numeroComDigitosInvertidos)
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 131; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
